@@ -1,2 +1,6 @@
 .stack-work/
 *~
+
+#ignore files still in progress
+src/Match.hs
+src/NfaState.hs
